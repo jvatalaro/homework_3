@@ -1,0 +1,53 @@
+#rock {
+	position: absolute;
+	top: 10%;
+	left: 25%;
+}
+
+#paper {
+	position: absolute;
+	top: 10%;
+	left: 45%;
+}
+
+#scissors {
+	position: absolute;
+	top: 10%;
+	left: 65%;
+}
+
+#you_label {
+	position: absolute;
+	top: 20%;
+	left: 25%;
+}
+
+#you_value {
+	position: absolute;
+	top: 20%;
+	left: 45%;
+}
+
+#computer_label {
+	position: absolute;
+	top: 30%;
+	left: 25%;
+}
+
+#computer_value {
+	position: absolute;
+	top: 30%;
+	left: 45%;
+}
+
+#result_label {
+	position: absolute;
+	top: 40%;
+	left: 25%;
+}
+
+#result_value {
+	position: absolute;
+	top: 40%;
+	left: 45%;
+}
